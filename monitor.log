@@ -1,0 +1,231 @@
+﻿[2026-05-29 09:39:45] 鐩戞祴 ACE-Guard: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 09:39:45] 锛堜换鍔＄鐞嗗櫒銆岃缁嗕俊鎭€嶄腑鐨勮繘绋嬪悕锛?
+Write-MonitorLog 
+[2026-05-29 09:39:45] 鏃ュ織鏂囦欢: D:\反扫盘\monitor.log
+[2026-05-29 09:39:45] ----- 鐩戞祴宸插惎鍔?-----
+[2026-05-29 10:01:10] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:01:11] Task Manager Details tab: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:01:11] Affinity mask: last logical CPU 27 of 28
+[2026-05-29 10:01:11] Poll interval: 2s
+[2026-05-29 10:01:11] Log file: D:\反扫盘\monitor.log
+[2026-05-29 10:01:11] ----- monitor started -----
+[2026-05-29 10:01:11] SGuard64 (PID 721236) -> efficiency mode, CPU 27 only
+[2026-05-29 10:01:11] SGuardSvc64 (PID 574680) -> efficiency mode, CPU 27 only
+[2026-05-29 10:06:04] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:06:04] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 10:06:04] Poll interval: 2s
+[2026-05-29 10:06:04] Log file: D:\反扫盘\monitor.log
+[2026-05-29 10:06:04] ----- monitor started -----
+[2026-05-29 10:06:04] SGuard64 (PID 721236) -> Low priority, CPU 27 only
+[2026-05-29 10:06:04] SGuardSvc64 (PID 574680) -> Low priority, CPU 27 only
+[2026-05-29 10:07:39] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:07:39] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 10:07:39] Re-check every 2s and re-apply if ACE-Guard changes settings
+[2026-05-29 10:07:39] Log file: D:\反扫盘\monitor.log
+[2026-05-29 10:07:39] ----- monitor started -----
+[2026-05-29 10:08:40] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:08:40] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 10:08:40] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-29 10:08:40] Log file: D:\反扫盘\monitor.log
+[2026-05-29 10:08:40] ----- monitor started -----
+[2026-05-29 10:08:51] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:08:51] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 10:08:51] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-29 10:08:51] Log file: D:\反扫盘\monitor.log
+[2026-05-29 10:08:51] ----- monitor started -----
+[2026-05-29 12:54:55] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 12:54:55] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 12:54:55] Re-check every 5s and re-apply if ACE-Guard changes settings
+[2026-05-29 12:54:55] Running as admin: True
+[2026-05-29 12:54:55] Log file: d:\反扫盘\monitor.log
+[2026-05-29 12:54:55] ----- monitor started -----
+[2026-05-29 12:56:31] SGuardSvc64 (PID 881828) -> applied CPU 27 only, Low priority
+[2026-05-29 13:00:36] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 13:00:36] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 13:00:36] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-29 13:00:36] Running as admin: True
+[2026-05-29 13:00:36] Log file: D:\反扫盘\monitor.log
+[2026-05-29 13:00:36] ----- monitor started -----
+[2026-05-29 20:43:28] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 20:43:28] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-29 20:43:28] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-29 20:43:28] Running as admin: True
+[2026-05-29 20:43:28] Log file: D:\反扫盘\monitor.log
+[2026-05-29 20:43:28] ----- monitor started -----
+[2026-05-30 09:51:58] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 09:51:58] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 09:51:58] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 09:51:58] Running as admin: True
+[2026-05-30 09:51:58] Log file: D:\反扫盘\monitor.log
+[2026-05-30 09:51:58] ----- monitor started -----
+[2026-05-30 10:22:59] SGuard64 (PID 862184) -> applied CPU 27 only, Low priority
+[2026-05-30 10:22:59] SGuardSvc64 (PID 590792) -> applied CPU 27 only, Low priority
+[2026-05-30 10:25:20] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 10:25:20] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 10:25:20] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 10:25:20] Running as admin: True
+[2026-05-30 10:25:20] Log file: D:\反扫盘\monitor.log
+[2026-05-30 10:25:20] ----- monitor started -----
+[2026-05-30 11:23:53] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 11:23:53] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 11:23:53] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 11:23:53] Running as admin: True
+[2026-05-30 11:23:53] Log file: D:\反扫盘\monitor.log
+[2026-05-30 11:23:53] ----- monitor started -----
+[2026-05-30 11:26:53] SGuard64 (PID 18360) -> applied CPU 27 only, Low priority
+[2026-05-30 11:26:53] SGuardSvc64 (PID 12224) -> applied CPU 27 only, Low priority
+[2026-05-30 12:30:54] SGuard64 (PID 30636) -> applied CPU 27 only, Low priority
+[2026-05-30 12:30:54] SGuardSvc64 (PID 6272) -> applied CPU 27 only, Low priority
+[2026-05-30 18:08:57] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 18:08:57] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 18:08:57] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 18:08:57] Running as admin: True
+[2026-05-30 18:08:57] Log file: D:\反扫盘\monitor.log
+[2026-05-30 18:08:57] ----- monitor started -----
+[2026-05-30 18:11:58] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 18:11:58] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 18:11:58] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 18:11:58] Running as admin: True
+[2026-05-30 18:11:58] Log file: D:\反扫盘\monitor.log
+[2026-05-30 18:11:58] ----- monitor started -----
+[2026-05-30 19:41:15] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-30 19:41:15] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-30 19:41:15] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-30 19:41:15] Running as admin: True
+[2026-05-30 19:41:15] Log file: D:\反扫盘\monitor.log
+[2026-05-30 19:41:15] ----- monitor started -----
+[2026-05-31 09:35:43] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-31 09:35:44] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-31 09:35:44] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-31 09:35:44] Running as admin: True
+[2026-05-31 09:35:44] Log file: D:\反扫盘\monitor.log
+[2026-05-31 09:35:44] ----- monitor started -----
+[2026-05-31 09:36:42] SGuard64 (PID 124876) -> applied CPU 27 only, Low priority
+[2026-05-31 10:11:28] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-31 10:11:28] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-31 10:11:28] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-31 10:11:28] Running as admin: True
+[2026-05-31 10:11:28] Log file: D:\反扫盘\monitor.log
+[2026-05-31 10:11:28] ----- monitor started -----
+[2026-05-31 11:30:09] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-31 11:30:09] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-05-31 11:30:09] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-05-31 11:30:09] Running as admin: True
+[2026-05-31 11:30:09] Log file: D:\反扫盘\monitor.log
+[2026-05-31 11:30:09] ----- monitor started -----
+[2026-06-01 09:13:10] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-01 09:13:10] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-01 09:13:10] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-01 09:13:10] Running as admin: True
+[2026-06-01 09:13:10] Log file: D:\反扫盘\monitor.log
+[2026-06-01 09:13:10] ----- monitor started -----
+[2026-06-01 11:02:12] SGuard64 (PID 32436) -> applied CPU 27 only, Low priority
+[2026-06-01 11:02:12] SGuardSvc64 (PID 4264) -> applied CPU 27 only, Low priority
+[2026-06-01 11:06:12] SGuard64 (PID 9524) -> applied CPU 27 only, Low priority
+[2026-06-01 11:06:12] SGuardSvc64 (PID 36916) -> applied CPU 27 only, Low priority
+[2026-06-01 12:55:23] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-01 12:55:23] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-01 12:55:23] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-01 12:55:23] Running as admin: True
+[2026-06-01 12:55:23] Log file: D:\反扫盘\monitor.log
+[2026-06-01 12:55:23] ----- monitor started -----
+[2026-06-02 07:01:20] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-02 07:01:20] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-02 07:01:20] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-02 07:01:20] Running as admin: True
+[2026-06-02 07:01:20] Log file: D:\反扫盘\monitor.log
+[2026-06-02 07:01:20] ----- monitor started -----
+[2026-06-02 14:28:46] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-02 14:28:46] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-02 14:28:46] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-02 14:28:46] Running as admin: True
+[2026-06-02 14:28:46] Log file: D:\反扫盘\monitor.log
+[2026-06-02 14:28:46] ----- monitor started -----
+[2026-06-03 09:25:59] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-03 09:25:59] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-03 09:25:59] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-03 09:25:59] Running as admin: True
+[2026-06-03 09:25:59] Log file: D:\反扫盘\monitor.log
+[2026-06-03 09:25:59] ----- monitor started -----
+[2026-06-03 10:26:19] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-03 10:26:19] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-03 10:26:19] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-03 10:26:19] Running as admin: True
+[2026-06-03 10:26:19] Log file: D:\反扫盘\monitor.log
+[2026-06-03 10:26:19] ----- monitor started -----
+[2026-06-03 11:51:29] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-03 11:51:29] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-03 11:51:29] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-03 11:51:29] Running as admin: True
+[2026-06-03 11:51:29] Log file: D:\反扫盘\monitor.log
+[2026-06-03 11:51:29] ----- monitor started -----
+[2026-06-03 12:31:31] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-03 12:31:31] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-03 12:31:31] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-03 12:31:31] Running as admin: True
+[2026-06-03 12:31:31] Log file: D:\反扫盘\monitor.log
+[2026-06-03 12:31:31] ----- monitor started -----
+[2026-06-03 13:39:55] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-03 13:39:55] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-03 13:39:55] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-03 13:39:55] Running as admin: True
+[2026-06-03 13:39:55] Log file: D:\反扫盘\monitor.log
+[2026-06-03 13:39:55] ----- monitor started -----
+[2026-06-03 13:59:55] SGuard64 (PID 20620) -> applied CPU 27 only, Low priority
+[2026-06-03 13:59:55] SGuardSvc64 (PID 5444) -> applied CPU 27 only, Low priority
+[2026-06-04 09:25:11] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-04 09:25:11] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-04 09:25:11] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-04 09:25:11] Running as admin: True
+[2026-06-04 09:25:11] Log file: D:\反扫盘\monitor.log
+[2026-06-04 09:25:11] ----- monitor started -----
+[2026-06-04 13:17:06] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-04 13:17:06] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-04 13:17:06] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-04 13:17:06] Running as admin: True
+[2026-06-04 13:17:06] Log file: D:\反扫盘\monitor.log
+[2026-06-04 13:17:06] ----- monitor started -----
+[2026-06-04 13:24:07] SGuard64 (PID 22076) -> applied CPU 27 only, Low priority
+[2026-06-04 13:24:07] SGuardSvc64 (PID 7820) -> applied CPU 27 only, Low priority
+[2026-06-05 07:43:54] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-05 07:43:54] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-05 07:43:54] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-05 07:43:54] Running as admin: True
+[2026-06-05 07:43:54] Log file: D:\反扫盘\monitor.log
+[2026-06-05 07:43:54] ----- monitor started -----
+[2026-06-05 18:28:31] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-05 18:28:31] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-05 18:28:31] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-05 18:28:31] Running as admin: True
+[2026-06-05 18:28:31] Log file: D:\反扫盘\monitor.log
+[2026-06-05 18:28:31] ----- monitor started -----
+[2026-06-05 20:20:33] SGuard64 (PID 186192) -> applied CPU 27 only, Low priority
+[2026-06-05 20:20:33] SGuardSvc64 (PID 184048) -> applied CPU 27 only, Low priority
+[2026-06-05 20:23:33] SGuard64 (PID 183744) -> applied CPU 27 only, Low priority
+[2026-06-05 22:06:36] SGuard64 (PID 212488) -> applied CPU 27 only, Low priority
+[2026-06-05 22:06:36] SGuardSvc64 (PID 212388) -> applied CPU 27 only, Low priority
+[2026-06-06 09:20:15] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-06 09:20:15] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-06 09:20:15] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-06 09:20:15] Running as admin: True
+[2026-06-06 09:20:15] Log file: D:\反扫盘\monitor.log
+[2026-06-06 09:20:15] ----- monitor started -----
+[2026-06-06 14:08:22] SGuard64 (PID 220880) -> applied CPU 27 only, Low priority
+[2026-06-06 14:08:22] SGuardSvc64 (PID 248600) -> applied CPU 27 only, Low priority
+[2026-06-06 14:10:53] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-06 14:10:53] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-06 14:10:53] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-06 14:10:53] Running as admin: True
+[2026-06-06 14:10:53] Log file: D:\反扫盘\monitor.log
+[2026-06-06 14:10:53] ----- monitor started -----
+[2026-06-06 14:12:53] SGuard64 (PID 7064) -> applied CPU 27 only, Low priority
+[2026-06-06 14:12:53] SGuardSvc64 (PID 13092) -> applied CPU 27 only, Low priority
+[2026-06-07 08:40:07] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-06-07 08:40:07] Actions: Low priority + last CPU only (CPU 27 of 28)
+[2026-06-07 08:40:07] Re-check every 60s and re-apply if ACE-Guard changes settings
+[2026-06-07 08:40:07] Running as admin: True
+[2026-06-07 08:40:07] Log file: D:\反扫盘\monitor.log
+[2026-06-07 08:40:07] ----- monitor started -----
+[2026-06-07 08:40:07] SGuard64 (PID 65540) -> applied CPU 27 only, Low priority
+[2026-06-07 12:42:11] SGuard64 (PID 122744) -> applied CPU 27 only, Low priority
+[2026-06-07 12:42:11] SGuardSvc64 (PID 126540) -> applied CPU 27 only, Low priority

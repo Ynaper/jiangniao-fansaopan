@@ -1,0 +1,10 @@
+﻿[2026-05-29 10:00:11] Watching: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:00:11] Task Manager Details tab: SGuard64.exe, SGuardSvc64.exe
+[2026-05-29 10:00:11] Affinity mask: last logical CPU 27 of 28
+[2026-05-29 10:00:11] Poll interval: 1s
+[2026-05-29 10:00:11] Log file: d:\反扫盘\monitor-fix-test.log
+[2026-05-29 10:00:11] ----- monitor started -----
+[2026-05-29 10:00:11] SGuard64 (PID 721236) -> efficiency mode, CPU 27 only
+[2026-05-29 10:00:11] SGuardSvc64 (PID 574680) -> efficiency mode, CPU 27 only
+[2026-05-29 12:49:01] SGuard64 (PID 882820) -> efficiency mode, CPU 27 only
+[2026-05-29 12:49:01] SGuardSvc64 (PID 881828) -> efficiency mode, CPU 27 only
